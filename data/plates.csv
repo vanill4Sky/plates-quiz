@@ -1,0 +1,407 @@
+﻿symbol;district;city;category
+BI;Białystok;Białystok;miasto
+BS;Suwałki;Suwałki;miasto
+BL;Łomża;Łomża;miasto
+BAU;augustowski;Augustów;miasto lub powiat
+BIA;białostocki;Białystok;powiat
+BBI;bielski;Bielsk Podlaski;miasto lub powiat
+BGR;grajewski;Grajewo;miasto lub powiat
+BHA;hajnowski;Hajnówka;miasto lub powiat
+BKL;kolneński;Kolno;miasto lub powiat
+BMN;moniecki;Mońki;miasto lub powiat
+BSE;sejneński;Sejny;miasto lub powiat
+BSI;siemiatycki;Siemiatycze;miasto lub powiat
+BSK;sokólski;Sokółka;miasto lub powiat
+BSU;suwalski;Suwałki;powiat
+BWM;wysokomazowiecki;Wysokie Mazowieckie;miasto lub powiat
+BZA;zambrowski;Zambrów;miasto lub powiat
+BLM;łomżyński;Łomża;powiat
+CB;Bydgoszcz;Bydgoszcz;miasto
+CG;Grudziądz;Grudziądz;miasto
+CT;Toruń;Toruń;miasto
+CW;Włocławek;Włocławek;miasto
+CAL;aleksandrowski;Aleksandrów Kujawski;miasto lub powiat
+CBR;brodnicki;Brodnica;miasto lub powiat
+CBY;bydgoski;Bydgoszcz;powiat
+CCH;chełmiński;Chełmno;miasto lub powiat
+CGD;golubsko-dobrzyński;Golub Dobrzyń;miasto lub powiat
+CGR;grudziądzki;Grudziądz;miasto lub powiat
+CIN;inowrocławski;Inowrocław;miasto lub powiat
+CLI;lipnowski;Lipno;miasto lub powiat
+CMG;mogileński;Mogilno;miasto lub powiat
+CNA;nakielski;Nakło nad Notecią;miasto lub powiat
+CRA;radziejowski;Radziejów;miasto lub powiat
+CRY;rypiński;Rypin;miasto lub powiat
+CSE;sępoleński;Sępolno krajeńskie;miasto lub powiat
+CSW;świecki;Świecie;miasto lub powiat
+CTR;toruński;Toruń;powiat
+CTU;tucholski;Tuchola;miasto lub powiat
+CWA;wąbrzeski;Wąbrzeźno;miasto lub powiat
+CWL;włocławski;Włocławek;miasto lub powiat
+CZN;żniński;Żnin;miasto lub powiat
+DJ;Jelenia Góra;Jelenia Góra;miasto
+DL;Legnica;Legnica;miasto
+DB;Wałbrzych;Wałbrzych;miasto
+DW;Wrocław;Wrocław;miasto
+DBL;bolesławiecki;Bolesławiec;miasto lub powiat
+DDZ;dzierżoniowski;Dzierżoniów;miasto lub powiat
+DGR;górowski;Góra;miasto lub powiat
+DGL;głogowski;Głogów;miasto lub powiat
+DJA;jaworski;Jawor;miasto lub powiat
+DJE;jeleniogórski;Jelenia Góra;powiat
+DKA;kamiennogórski;Kamienna Góra;miasto lub powiat
+DKL;kłodzki;Kłodzko;miasto lub powiat
+DLE;legnicki;Legnica;powiat
+DLB;lubański;Lubań;miasto lub powiat
+DLU;lubiński;Lubin;miasto lub powiat
+DLW;lwówecki;Lwówek Śląski;miasto lub powiat
+DMI;milicki;Milicz;miasto lub powiat
+DOL;oleśnicki;Oleśnica;miasto lub powiat
+DOA;oławski;Oława;miasto lub powiat
+DPL;polkowicki;Polkowice;miasto lub powiat
+DSR;średzki;Środa Śląska;miasto lub powiat
+DST;strzeliński;Strzelin;miasto lub powiat
+DSW;świdnicki;Świdnica;miasto lub powiat
+DTR;trzebnicki;Trzebnica;miasto lub powiat
+DBA;wałbrzyski;Wałbrzych;powiat
+DWL;wołowski;Wołów;miasto lub powiat
+DWR;wrocławski;Wrocław;powiat
+DZA;ząbkowicki;Ząbkowice Ślaskie;miasto lub powiat
+DZG;zgorzelecki;Zgorzelec;miasto lub powiat
+DZL;złotoryjski;Złotoryja;miasto lub powiat
+EP;Piotrków Trybunalski;Piotrków Trybunalski;miasto
+ES;Skierniewice;Skierniewice;miasto
+EL;Łódź;Łódź;miasto
+EBE;bełchatowski;Bełchatów;miasto lub powiat
+EBR;brzeziński;Brzeziny;miasto lub powiat
+EKU;kutnowski;Kutno;miasto lub powiat
+EOP;opoczyński;Opoczno;miasto lub powiat
+EPA;pabianicki;Pabianice;miasto lub powiat
+EPJ;pajęczański;Pajęczno;miasto lub powiat
+EPI;piotrkowski;Piotrków Trybunalski;powiat
+EPD;poddębicki;Poddębice;miasto lub powiat
+ERA;radomszczański;Radomsko;miasto lub powiat
+ERW;rawski;Rawa Mazowiecka;miasto lub powiat
+ESI;sieradzki;Sieradz;miasto lub powiat
+ESK;skierniewicki;Skierniewice;powiat
+ETM;tomaszowski;Tomaszów Mazowiecki;miasto lub powiat
+EWI;wieluński;Wieluń;miasto lub powiat
+EWE;wieruszowski;Wieruszów;miasto lub powiat
+EZD;zduńskowolski;Zduńska Wola;miasto lub powiat
+EZG;zgierski;Zgierz;miasto lub powiat
+ELA;łaski;Łask;miasto lub powiat
+ELE;łęczycki;Łęczyca;miasto lub powiat
+ELW;łódzki wschodni;Łódź Wschód;miasto lub powiat
+ELC;łowicki;Łowicz;miasto lub powiat
+FG;Gorzów Wielkopolski;Gorzów Wielkopolski;miasto
+FZ;Zielona Góra;Zielona Góra;miasto
+FGW;gorzowski;Gorzów Wielkopolski;powiat
+FKR;krośnieński;Krosno Odrzańskie;miasto lub powiat
+FMI;międzyrzecki;Międzyrzecz;miasto lub powiat
+FNW;nowosolski;Nowa Sól;miasto lub powiat
+FSD;strzelecko-drezdenecki;Strzelce Krajeńskie;miasto lub powiat
+FSU;sulęciński;Sulęcin;miasto lub powiat
+FSW;świebodziński;Świebodzin;miasto lub powiat
+FSL;słubicki;Słubice;miasto lub powiat
+FWS;wschowski;Wschowa;miasto lub powiat
+FZG;żagański;Żagań;miasto lub powiat
+FZA;żarski;Żary;miasto lub powiat
+FZI;zielonogórski;Zielona Góra;powiat
+GD;Gdańsk;Gdańsk;miasto
+GA;Gdynia;Gdynia;miasto
+GSP;Sopot;Sopot;miasto
+GS;Słupsk;Słupsk;miasto
+GBY;bytowski;Bytów;miasto lub powiat
+GCH;chojnicki;Chojnice;miasto lub powiat
+GCZ;człuchowski;Człuchów;miasto lub powiat
+GDA;gdański;Gdańsk;powiat
+GKA;kartuski;Kartuzy;miasto lub powiat
+GKS;kościerski;Kościerzyna;miasto lub powiat
+GKW;kwidzyński;Kwidzyn;miasto lub powiat
+GLE;lęborski;Lębork;miasto lub powiat
+GMB;malborski;Malbork;miasto lub powiat
+GND;nowodworski;Nowy Dwór Gdański;miasto lub powiat
+GPU;pucki;Puck;miasto lub powiat
+GST;starogardzki;Starogard Gdański;miasto lub powiat
+GSZ;sztumski;Sztum;miasto lub powiat
+GSL;słupski;Słupsk;powiat
+GTC;tczewski;Tczew;miasto lub powiat
+GWE;wejherowski;Wejherowo;powiat
+GWO;wejherowski;Wejherowo;powiat
+KR;Kraków;Kraków;miasto
+KK;Kraków;Kraków;miasto
+KN;Nowy Sącz;Nowy Sącz;miasto
+KT;Tarnów;Tarnów;miasto
+KBC;bocheński;Bochnia;miasto lub powiat
+KBA;bocheński;Bochnia;miasto lub powiat
+KBR;brzeski;Brzesko;miasto lub powiat
+KCH;chrzanowski;Chrzanów;miasto lub powiat
+KDA;dąbrowski;Dąbrowa Tarnowska;miasto lub powiat
+KGR;gorlicki;Gorlice;miasto lub powiat
+KRA;krakowski;Kraków;powiat
+KLI;limanowski;Limanowa;miasto lub powiat
+KMI;miechowski;Miechów;miasto lub powiat
+KMY;myślenicki;Myślenice;miasto lub powiat
+KNS;nowosądecki;Nowy Sącz;powiat
+KNT;nowotarski;Nowy Targ;miasto lub powiat
+KOL;olkuski;Olkusz;miasto lub powiat
+KOS;oświęcimski;Oświęcim;miasto lub powiat
+KPR;proszowicki;Proszowice;miasto lub powiat
+KSU;suski;Sucha Beskidzka;miasto lub powiat
+KTA;tarnowski;Tarnów;powiat
+KTT;tatrzański;Zakopane;miasto lub powiat
+KWA;wadowicki;Wadowice;miasto lub powiat
+KWI;wielicki;Wieliczka;miasto lub powiat
+LB;Biała Podlaska;Biała Podlaska;miasto
+LC;Chełm;Chełm;miasto
+LU;Lublin;Lublin;miasto
+LZ;Zamość;Zamość;miasto
+LBI;bialski;Biała Podlaska;powiat
+LBL;biłgorajski;Biłgoraj;miasto lub powiat
+LCH;chełmski;Chełm;powiat
+LHR;hrubieszowski;Hrubieszów;miasto lub powiat
+LJA;janowski;Janów Lubelski;miasto lub powiat
+LKR;kraśnicki;Kraśnik;miasto lub powiat
+LKS;krasnostawski;Krasnystaw;miasto lub powiat
+LLB;lubartowski;Lubartów;miasto lub powiat
+LUB;lubelski;Lublin;powiat
+LOP;opolski;Opole Lubelskie;miasto lub powiat
+LPA;parczewski;Parczew;miasto lub powiat
+LPU;puławski;Puławy;miasto lub powiat
+LRA;radzyński;Radzyń Podlaski;miasto lub powiat
+LRY;rycki;Ryki;miasto lub powiat
+LSW;świdnicki;Świdnik;miasto lub powiat
+LTM;tomaszowski;Tomaszów Lubelski;miasto lub powiat
+LWL;włodawski;Włodawa;miasto lub powiat
+LZA;zamojski;Zamość;powiat
+LLE;łęczyński;Łęczna;miasto lub powiat
+LLU;łukowski;Łuków;miasto lub powiat
+NE;Elbląg;Elbląg;miasto
+NO;Olsztyn;Olsztyn;miasto
+NBA;bartoszycki;Bartoszyce;miasto lub powiat
+NBR;braniewski;Braniewo;miasto lub powiat
+NDZ;działdowski;Działdowo;miasto lub powiat
+NEB;elbląski;Elbląg;powiat
+NEL;ełcki;Ełk;miasto lub powiat
+NGI;giżycki;Giżycko;miasto lub powiat
+NGO;gołdapski;Gołdap;miasto lub powiat
+NIL;iławski;Iława;miasto lub powiat
+NKE;kętrzyński;Kętrzyn;miasto lub powiat
+NLI;lidzbarski;Lidzbark Warmiński;miasto lub powiat
+NMR;mrągowski;Mrągowo;miasto lub powiat
+NNI;nidzicki;Nidzica;miasto lub powiat
+NNM;nowomiejski;Nowe Miasto Lubawskie;miasto lub powiat
+NOE;olecki;Olecko;miasto lub powiat
+NOL;olsztyński;Olsztyn;powiat
+NOS;ostródzki;Ostróda;miasto lub powiat
+NPI;piski;Pisz;miasto lub powiat
+NSZ;szczycieński;Szczytno;miasto lub powiat
+NWE;węgorzewski;Węgorzewo;miasto lub powiat
+OP;Opole;Opole;miasto
+OB;brzeski;Brzeg;miasto lub powiat
+OGL;głubczycki;Głubczyce;miasto lub powiat
+OK;kędzierzyńsko-kozielski;Kędzierzyn — Koźle;miasto lub powiat
+OKL;kluczborski;Kluczbork;miasto lub powiat
+OKR;krapkowick;Krapkowice;miasto lub powiat
+ONA;namysłowski;Namysłów;miasto lub powiat
+ONY;nyski;Nysa;miasto lub powiat
+OOL;oleski;Olesno;miasto lub powiat
+OPO;opolski;Opole;powiat
+OPR;prudnicki;Prudnik;miasto lub powiat
+OST;strzelecki;Strzelce Opolskie;miasto lub powiat
+PK;Kalisz;Kalisz;miasto
+PN;Konin;Konin;miasto
+PL;Leszno;Leszno;miasto
+PO;Poznań;Poznań;miasto
+PY;Poznań;Poznań;miasto
+PCH;chodzieski;Chodzież;miasto lub powiat
+PCT;czarnkowsko-trzcianecki;Czarnków;miasto lub powiat
+PGN;gnieźnieński;Gniezno;miasto lub powiat
+PGS;gostyński;Gostyń;miasto lub powiat
+PGO;grodziski;Grodzisk Wielkopolski;miasto lub powiat
+PJA;jarociński;Jarocin;miasto lub powiat
+PKA;kaliski;Kalisz;powiat
+PKE;kępiński;Kępno;miasto lub powiat
+PKL;kolski;Koło;miasto lub powiat
+PKN;koniński;Konin;powiat
+PKS;kościański;Kościan;miasto lub powiat
+PKR;krotoszyński;Krotoszyn;miasto lub powiat
+PLE;leszczyński;Leszno;powiat
+PMI;międzychodzki;Międzychód;miasto lub powiat
+PNT;nowotomyski;Nowy Tomyśl;miasto lub powiat
+POB;obornicki;Oborniki;miasto lub powiat
+POS;ostrowski;Ostrów Wielkopolski;miasto lub powiat
+POT;ostrzeszowski;Ostrzeszów;miasto lub powiat
+PP;pilski;Piła;miasto lub powiat
+PPL;pleszewski;Pleszew;miasto lub powiat
+PZ;poznański;Poznań;powiat
+PRA;rawicki;Rawicz;miasto lub powiat
+PSR;średzki;Środa Wielkopolska;miasto lub powiat
+PSE;śremski;Śrem;miasto lub powiat
+PSZ;szamotulski;Szamotuły;miasto lub powiat
+PSL;słupecki;Słupca;miasto lub powiat
+PTU;turecki;Turek;miasto lub powiat
+PWA;wągrowiecki;Wągrowiec;miasto lub powiat
+PWL;wolsztyński;Wolsztyn;miasto lub powiat
+PWR;wrzesiński;Września;powiat
+PZL;złotowski;Złotów;miasto lub powiat
+RK;Krosno;Krosno;miasto
+RP;Przemyśl;Przemyśl;miasto
+RZ;Rzeszów;Rzeszów;miasto
+RT;Tarnobrzeg;Tarnobrzeg;miasto
+RBI;bieszczadzki;Ustrzyki Dolne;miasto lub powiat
+RBR;brzozowski;Brzozów;miasto lub powiat
+RDE;dębicki;Dębica;miasto lub powiat
+RJA;jarosławski;Jarosław;miasto lub powiat
+RJS;jasielski;Jasło;miasto lub powiat
+RKL;kolbuszowski;Kolbuszowa;miasto lub powiat
+RKR;krośnieński;Krosno;powiat
+RLS;leski;Lesko;miasto lub powiat
+RLE;leżajski;Leżajsk;miasto lub powiat
+RLU;lubaczowski;Lubaczów;miasto lub powiat
+RMI;mielecki;Mielec;miasto lub powiat
+RNI;niżański;Nisko;miasto lub powiat
+RPR;przemyski;Przemyśl;powiat
+RPZ;przeworski;Przeworsk;miasto lub powiat
+RRS;ropczycko-sędziszowski;Ropczyce;miasto lub powiat
+RZE;rzeszowski;Rzeszów;powiat
+RSA;sanocki;Sanok;miasto lub powiat
+RST;stalowowolski;Stalowa Wola;miasto lub powiat
+RSR;strzyżowski;Strzyżów;miasto lub powiat
+RTA;tarnobrzeski;Tarnobrzeg;powiat
+RLA;łańcucki;Łańcut;miasto lub powiat
+SB;Bielsko-Biała;Bielsko-Biała;miasto
+SY;Bytom;Bytom;miasto
+SH;Chorzów;Chorzów;miasto
+SC;Częstochowa;Częstochowa;miasto
+SD;Dąbrowa Górnicza;Dąbrowa Górnicza;miasto
+SG;Gliwice;Gliwice;miasto
+SJZ;Jastrzębie-Zdrój;Jastrzębie Zdrój;miasto
+SJ;Jaworzno;Jaworzno;miasto
+SK;Katowice;Katowice;miasto
+SM;Mysłowice;Mysłowice;miasto
+SPI;Piekary Śląskie;Piekary Śląskie;miasto
+SL;Ruda Śląska;Ruda Śląska;miasto
+SR;Rybnik;Rybnik;miasto
+SI;Siemianowice Śląskie;Siemianowice Śląskie;miasto
+SO;Sosnowiec;Sosnowiec;miasto
+SW;Świętochłowice;Świętochłowice;miasto
+ST;Tychy;Tychy;miasto
+SZ;Zabrze;Zabrze;miasto
+SZO;Żory;Żory;miasto
+SBE;będziński;Będzin;miasto lub powiat
+SBI;bielski;Bielsko-Biała;powiat
+SBL;bieruńsko-lędziński;Bieruńsko-Lędziński;miasto lub powiat
+SCI;cieszyński;Cieszyn;miasto lub powiat
+SCZ;częstochowski;Częstochowa;powiat
+SGL;gliwicki;Gliwice;powiat
+SKL;kłobucki;Kłobuck;miasto lub powiat
+SLU;lubliniecki;Lubliniec;miasto lub powiat
+SMI;mikołowski;Mikołów;miasto lub powiat
+SMY;myszkowski;Myszków;miasto lub powiat
+SPS;pszczyński;Pszczyna;miasto lub powiat
+SRC;raciborski;Racibórz;miasto lub powiat
+SRB;rybnicki;Rybnik;powiat
+STA;tarnogórski;Tarnowskie Góry;miasto lub powiat
+SWD;wodzisławski;Wodzisław Śląski;powiat
+SWZ;wodzisławski;Wodzisław Śląski;powiat
+SZA;zawierciański;Zawiercie;miasto lub powiat
+SZY;żywiecki;Żywiec;miasto lub powiat
+TK;Kielce;Kielce;miasto
+TBU;buski;Busko Zdrój;miasto lub powiat
+TJE;jędrzejowski;Jędrzejów;miasto lub powiat
+TKA;kazimierski;Kazimierza Wielka;miasto lub powiat
+TKI;kielecki;Kielce;powiat
+TKN;konecki;Końskie;miasto lub powiat
+TOP;opatowski;Opatów;miasto lub powiat
+TOS;ostrowiecki;Ostrowiec Świętokrzyski;miasto lub powiat
+TPI;pińczowski;Pińczów;miasto lub powiat
+TSA;sandomierski;Sandomierz;miasto lub powiat
+TSK;skarżyski;Skarżysko-Kamienna;miasto lub powiat
+TST;starachowicki;Starachowice;miasto lub powiat
+TSZ;staszowski;Staszów;miasto lub powiat
+TLW;włoszczowski;Włoszczowa;miasto lub powiat
+WO;Ostrołęka;Ostrołęka;miasto
+WP;Płock;Płock;miasto
+WR;Radom;Radom;miasto
+WS;Siedlce;Siedlce;miasto
+WB;Warszawa Bemowo;Warszawa;miasto
+WA;Warszawa Białołęka;Warszawa;miasto
+WD;Warszawa Bielany;Warszawa;miasto
+WE;Warszawa Mokotów;Warszawa;miasto
+WU;Warszawa Ochota;Warszawa;miasto
+WH;Warszawa Praga Północ;Warszawa;miasto
+WF;Warszawa Praga Południe;Warszawa;miasto
+WW;Warszawa Rembertów;Warszawa;miasto
+WW;Warszawa Wilanów;Warszawa;miasto
+WW;Warszawa Włochy;Warszawa;miasto
+WI;Warszawa Śródmieście;Warszawa;miasto
+WJ;Warszawa Targówek;Warszawa;miasto
+WK;Warszawa Ursus;Warszawa;miasto
+WN;Warszawa Ursynów;Warszawa;miasto
+WT;Warszawa Wawer;Warszawa;miasto
+WX;Warszawa Wesoła;Warszawa;miasto
+WX;Warszawa Żoliborz;Warszawa;miasto
+WY;Warszawa Wola;Warszawa;miasto
+WBR;białobrzeski;Białobrzegi;miasto lub powiat
+WCI;ciechanowski;Ciechanów;miasto lub powiat
+WG;garwoliński;Garwolin;miasto lub powiat
+WGS;gostyniński;Gostynin;miasto lub powiat
+WGM;grodziski;Grodzisk Mazowiecki;miasto lub powiat
+WGR;grójecki;Grójec;miasto lub powiat
+WKZ;kozienicki;Kozienice;miasto lub powiat
+WL;legionowski;Legionowo;miasto lub powiat
+WLI;lipski;Lipsko;miasto lub powiat
+WMA;makowski;Maków Mazowiecki;miasto lub powiat
+WM;miński;Mińsk Mazowiecki;miasto lub powiat
+WML;mławski;Mława;miasto lub powiat
+WND;nowodworski;Nowy Dwór Mazowiecki;miasto lub powiat
+WOR;ostrowski;Ostrów Mazowiecka;miasto lub powiat
+WOS;ostrołęcki;Ostrołęka;powiat
+WOT;otwocki;Otwock;miasto lub powiat
+WPI;piaseczyński;Piaseczno;miasto lub powiat
+WPR;pruszkowski;Pruszków;powiat
+WPP;pruszkowski;Płońsk;powiat
+WPS;pruszkowski;Pruszków;powiat
+WPZ;przasnyski;Przasnysz;miasto lub powiat
+WPY;przysuski;Przysucha;miasto lub powiat
+WPU;pułtuski;Pułtusk;miasto lub powiat
+WPL;płocki;Płock;powiat
+WPN;płoński;Płońsk;powiat
+WRA;radomski;Radom;powiat
+WSI;siedlecki;Sierpc;powiat
+WSE;sierpecki;Sierpc;powiat
+WSC;sochaczewski;Sochaczew;miasto lub powiat
+WSK;sokołowski;Sokołów Podlaski;miasto lub powiat
+WSZ;szydłowiecki;Szydłowiec;miasto lub powiat
+WZ;warszawski zachodni;Warszawa Zachód;miasto lub powiat
+WWE;węgrowski;Węgrów;miasto lub powiat
+WWL;wołomiński;Wołomin;miasto lub powiat
+WV;wołomiński;Wołomin;miasto lub powiat
+WWY;wyszkowski;Wyszków;miasto lub powiat
+WZU;żuromiński;Żuromin;miasto lub powiat
+WZW;zwoleński;Zwoleń;miasto lub powiat
+WZY;żyrardowski;Żyrardów;miasto lub powiat
+WLS;łosicki;Łosice;miasto lub powiat
+ZK;Koszalin;Koszalin;miasto
+ZSW;Świnoujście;Świnoujście;miasto
+ZS;Szczecin;Szczecin;miasto
+ZZ;Szczecin;Szczecin;miasto
+ZBI;białogardzki;Białogard;miasto lub powiat
+ZCH;choszczeński;Choszczno;miasto lub powiat
+ZDR;drawski;Drawsko Pomorskie;miasto lub powiat
+ZGL;goleniowski;Goleniów;miasto lub powiat
+ZGY;gryficki;Gryfice;miasto lub powiat
+ZGR;gryfiński;Gryfino;miasto lub powiat
+ZKA;kamieński;Kamień Pomorski;miasto lub powiat
+ZKO;koszaliński;Koszalin;powiat
+ZKL;kołobrzeski;Kołobrzeg;miasto lub powiat
+ZMY;myśliborski;Myślibórz;miasto lub powiat
+ZPL;policki;Police;miasto lub powiat
+ZPY;pyrzycki;Pyrzyce;miasto lub powiat
+ZST;stargardzki;Stargard Szczeciński;miasto lub powiat
+ZSD;świdwiński;Świdwin;miasto lub powiat
+ZSZ;szczecinecki;Szczecinek;miasto lub powiat
+ZSL;sławieński;Sławno;miasto lub powiat
+ZWA;wałecki;Wałcz;miasto lub powiat
+ZLO;łobeski;Łobez;miasto lub powiat
